@@ -6,3 +6,4 @@ Personal website
 3. Have a central page for business inqueries
 4. Make it accesible
 5. Show myself on the best light
+6. Using Figma for design, React for structure & Firebase for hosting, storage, and database if needed.
